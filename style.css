@@ -1,0 +1,68 @@
+body{
+    background-image: url(pica-pau.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-size: 90px;
+    color: white; text-shadow: rgb(233, 0, 0) 0.1em 0.1em 0.2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-style: inherit;
+}
+
+p{
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.918); text-shadow: rgba(247, 0, 0, 0.637) 0.1em 0.1em 0.2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-style: inherit;
+}
+
+#bebem{
+    font-size: 30px;
+    color: white; text-shadow: rgb(255, 0, 0) 0.1em 0.1em 0.2em;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#naobebem{
+    font-size: 30px;
+    color: white; text-shadow: rgb(201, 0, 0) 0.1em 0.1em 0.2em;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#crianca{
+    font-size: 30px;
+    color: white; text-shadow: rgb(201, 0, 0) 0.1em 0.1em 0.2em;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#github{
+    font-size: 20px;
+    color: white; text-shadow: rgb(74, 12, 131) 0.1em 0.1em 0.2em;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#botao{
+    display: block;
+    margin: inherit;
+    background: #fa2525a6;
+    color: white;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    font-size: 30px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+}
+#total{
+    color: white;
+    font: normal 16px arial;
+}
